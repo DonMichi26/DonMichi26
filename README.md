@@ -9,7 +9,6 @@
 
 #### 🔐 Ciberseguridad
 ![Ciberseguridad](https://img.shields.io/badge/-Ethical_Hacking-000000?style=flat&logo=terminal)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat&logo=owasp)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1674c7?style=flat&logo=wireshark)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat&logo=nmap)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=metasploit)
@@ -18,7 +17,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 #### 🌐 Desarrollo Web
