@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy DonMichi26
+## ¡Hola! 👋 Soy Luis Magro
 
 🧠 Apasionado por la tecnología, la resolución de problemas y el desarrollo de soluciones seguras y escalables.  
 👨‍💻 Estudiante y entusiasta del desarrollo de software, **ciencia de datos**, **inteligencia artificial** y **ciberseguridad**.
@@ -57,8 +57,7 @@
 - Iniciativas que promuevan la **seguridad digital en comunidades**
 
 ### 📫 ¿Cómo contactarme?
-- [Twitter/X](https://twitter.com/tu-usuario)  
-- Correo: **tu.email@example.com**
+- Correo: **magrocolqui@gmail.com**
 
 ### ⚡ Dato curioso
 > Creo que **la seguridad no es una característica, es la base**. Un sistema inteligente debe ser, ante todo, seguro.
